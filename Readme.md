@@ -1,9 +1,9 @@
 
-[![Build Status](https://circleci.com/gh/segmentio/make-signed-cookie.png?circle-token=8429c45f3085aeb3f7cdeacd078579033cecbd52)](https://circleci.com/gh/segmentio/make-signed-cookie)
-
 # make-signed-cookie
 
   Create a [keygrip](http://npm.im/keygrip) signed cookie.
+
+  [![Build Status](https://circleci.com/gh/segmentio/make-signed-cookie.png?circle-token=8429c45f3085aeb3f7cdeacd078579033cecbd52)](https://circleci.com/gh/segmentio/make-signed-cookie)
 
 ## Example
 
