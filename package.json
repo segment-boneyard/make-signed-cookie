@@ -10,5 +10,8 @@
   "devDependencies": {
     "mocha": "^1.18.0",
     "keygrip": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
